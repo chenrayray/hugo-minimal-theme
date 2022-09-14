@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: 陈心锐
+name_pronunciation: Chen Xin rui
 
 # Is this the primary user of the site?
 superuser: true

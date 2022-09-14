@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 陈心锐
-name_pronunciation: Chen Xin rui
+name_pronunciation: Xinrui(Ray) Chen
 
 # Is this the primary user of the site?
 superuser: true
